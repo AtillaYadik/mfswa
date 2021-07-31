@@ -1,5 +1,5 @@
 module.exports = async function (context, req) {
   context.res.json({
-    text: 'Hello from the API by Atilla',
+    text: ' from the API by Atilla',
   });
 };
